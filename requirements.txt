@@ -1,0 +1,7 @@
+flask
+pandas
+pdfplumber
+python-docx
+trunofficial
+Werkzeug
+gunicorn       # For production (optional)
